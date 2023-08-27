@@ -1,4 +1,4 @@
-package list.operacoes_basicas.carrinhocompras;
+package list.carrinhocompras;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,14 +16,7 @@ public class CarrinhoDeCompras {
     }
 
     public void removerItem(String nome){
-        List<Item> itensRemocao = new ArrayList<>();
-
-        for (Item i: listaItens) {
-            if (i.getNome().equalsIgnoreCase(nome)){
-                itensRemocao.add(i);
-            }
-        }
-        listaItens.removeAll(itensRemocao);
+        listaItens.removeIf(i -> i.getNome().equalsIgnoreCase(nome));
     }
 
     public double calcularValorTotal(){

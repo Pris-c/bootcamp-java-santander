@@ -1,4 +1,4 @@
-package list.operacoes_basicas.carrinhocompras;
+package list.carrinhocompras;
 
 public class Teste {
 
@@ -29,10 +29,6 @@ public class Teste {
         System.out.println();
         System.out.println("Exibir itens: ");
         carrinho.exibirItens();
-
-
-
-
 
     }
 }

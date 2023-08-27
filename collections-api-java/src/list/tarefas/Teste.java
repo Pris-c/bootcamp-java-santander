@@ -1,4 +1,4 @@
-package list.operacoes_basicas.tarefas;
+package list.tarefas;
 
 public class Teste {
 

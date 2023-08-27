@@ -1,4 +1,4 @@
-package list.operacoes_basicas.carrinhocompras;
+package list.carrinhocompras;
 
 public class Item {
 
