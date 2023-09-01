@@ -1,8 +1,6 @@
 package desafio_streamAPI;
 
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 //Desafio 7 - Encontrar o segundo número maior da lista:

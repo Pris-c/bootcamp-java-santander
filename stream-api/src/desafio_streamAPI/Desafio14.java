@@ -9,7 +9,7 @@ public class Desafio14 {
 
     public static void main(String[] args) {
 
-        List<Integer> numeros = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 5, 4, 3);
+        List<Integer> numeros = Arrays.asList(1, 2, 3, 4, 13, 5, 6, 7, 8, 9, 10, 5, 4, 3);
         System.out.println(numeros.stream().filter(Desafio14::primo).sorted().reduce((n1, n2) -> n2).get());
 
     }
@@ -17,14 +17,16 @@ public class Desafio14 {
         if(n<=0){
             return false;
         }
+        else if (n <= 3) {
+            return true;
+        }
 
-        int div = 0;
-        for(int i=1; i<n; i++){
+        for(int i=2; i<n; i++){
             if (n%i == 0){
-                div++;
+                return false;
             }
         }
-        return div == 1;
-    };
+        return true;
+    }
 
 }

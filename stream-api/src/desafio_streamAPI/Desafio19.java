@@ -1,6 +1,5 @@
 package desafio_streamAPI;
 
-
 import java.util.Arrays;
 import java.util.List;
 
