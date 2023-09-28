@@ -15,7 +15,7 @@ Those were the mainly topics covered by the bootcamp:
 * Java Programming Language
 * Java Platform
 * Object Oriented Programming with Java
-* Jaba Collections
+* Java Collections
 * Java Stream API
 * OOP and UML
 * JUnit
