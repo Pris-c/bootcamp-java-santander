@@ -1,33 +1,28 @@
-# Bootcamp Backend Java: Santander+DIO
+# Bootcamp Backend Java: Santander+DIO 2023 </p>
+<p align="center">
+  <img src="https://github.com/Pris-c/bootcamp-java-santander/assets/99100607/2f85c8dc-d947-4593-bc98-472b75e42ab3" alt="Sublime's custom image"/>
+</p>
 
 This repository contains the projects developed along the Bootcamp Backend Java, offered by Santander and DIO.<br>
-The bootcamp was composed by the following coureses:
+Furthermore, the project developed based on the last activit (Publishing a REST API in the cloud using Spring Boot 3, Java 17 and Railway) is available at the following repository: https://github.com/Pris-c/hp-characters-age
+
+
+Those were the mainly topics covered by the bootcamp:
 <br>
 
-* **Princípios de Desenvolvimento de Software (Software Development Principles)**
-  * Versionamento de Código com Git e Github (Code versioning with Git and Github)
-* **Conhecendo a Linguagem de Programação Java (Java Programming Language)**
-  * Introdução à Plataforma Java (Java Platform Introduction)
-  * Ambiente de Desenvolvimento Java
-  * Aprendendo a Sintaxe Java
-  * Introdução às Estruturas Condicionais coom Java
-  * Estruturas de Repetição com Java
-  * Java e Tratamento de Exceções
-* **Programação Orientada a Objetos com Java**
-  * Fundamentos da Programação Orientada a Objetos
-  * Pilares da Programação Orientada a Objetos com Java
-  * Conhecendo Collections Java
-  * Ganhando Produtividade com Stream API
-  * Orientação a Objetos e UML
-* **Primeiros Passos em SQL e NoSQL**
-  * Introdução a Banco de Dados Relacionais (SQL)
-  * Introdução a Bando de Dados NoSQL
-* **Ganhando Produtividade com Spring Framework e Java**
-  *  Gerenciamento de Dependências e Build em Java com Maven
-  *  Testes Unitários com JUnit
-  *  Contextualizando o Desenvolvimento Web com Spring Boot 3
-  *  Imersão no Spring Framework com Spring Boot
-  *  Criando uma API REST com Spring Web e Swagger
-  *  Adicionando Segurança a uma API REST com Spring Security
-  *  Explorando Padrões de Projeto com Java
-  *  Publicando uma API REST na nuvem usando Spring Boot 3, Java 17 e Railway
+* Software Development Principles
+* Code versioning with Git and Github
+* Java Programming Language
+* Java Platform
+* Object Oriented Programming with Java
+* Jaba Collections
+* Java Stream API
+* OOP and UML
+* JUnit
+* SQL and NoSQL data bases
+* Spring Framework
+* Dependency Management and Build in Java with Maven
+* Spring Boot 3
+* Swagger
+* Spring Security
+* Design Patterns
